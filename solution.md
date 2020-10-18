@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  решение
-permalink: /insites/
+permalink: /solution/
 ---
 
 {% include solution.html %}
