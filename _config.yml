@@ -1,4 +1,9 @@
 # basic options
+header_pages:
+  - about.md
+  - solution.md
+  - insites.md
+
 title: Base Station
 author: 2020
 # email: your-email@domain.com
