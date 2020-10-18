@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: наша команда
 ---
 
 {% include team.html %}
