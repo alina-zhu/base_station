@@ -1,0 +1,11 @@
+# basic options
+title: Base Station
+author: alina-zhu
+# email: your-email@domain.com
+description: Base Station team for NWGL Hack
+# twitter_username: jekyllrb
+# github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
