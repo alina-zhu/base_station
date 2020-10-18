@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  наше решение
+title:  решение
 permalink: /insites/
 ---
 
