@@ -6,6 +6,11 @@
   box-sizing: border-box;
 }
 
+div.m {
+  margin: 20px;
+}
+		
+		
 .column {
   float: left;
   width: 33.33%;
@@ -28,13 +33,13 @@
 <body>
 
 <div class="row" >
-  <div class="column">
+  <div class="column" class="m">
     <img src="{{ 'images/irina.png' | relative_url }}" alt="Irina Elisova" style="width:200px">
     <div class="center">
     	<p>Ирина Елисова</p>
     </div>
   </div>
-  <div class="column">
+  <div class="column" class="m">
     <img src="{{ 'images/anna.png' | relative_url }}" alt="Anna Rozhkova" style="width:200px">
     	<div class="center">
     		<p>Анна Рожкова</p>
@@ -44,13 +49,13 @@
 
 
 <div class="row">  
-  <div class="column">
+  <div class="column" class="m">
     <img src="{{ 'images/olga.png' | relative_url }}" alt="Olga Gerasimova" style="width:200px">
     <div class="center">
     	<p>Ольга Герасимова</p>
     	</div>
   </div>
-  <div class="column">
+  <div class="column" class="m">
     <img src="{{ 'images/alina.png' | relative_url }}" alt="Alina Zhukova" style="width:200px">
     <div class="center">
     	<p>Алина Жукова</p>
